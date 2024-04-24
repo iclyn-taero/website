@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "my personal website where I post the projects I have worked on",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FierceBlizzard/website.git"
+  },
+  "author": "Iclyn Taero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FierceBlizzard/website/issues"
+  },
+  "homepage": "https://github.com/FierceBlizzard/website#readme"
+}
