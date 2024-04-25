@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/node:latest
+      - image: cimg/node:latest
 
     working_directory: ~/website
 
@@ -20,7 +20,7 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/python:latest
+      - image: cimg/python:latest
 
     working_directory: ~/website
 
